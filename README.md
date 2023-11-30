@@ -17,17 +17,29 @@ This does make use of the edited ntptime.py file from the official Micropython b
 The goal is that if you have a Feather S3, ProS3, or TinyS3 you can perform a varetity of actions that your program may need at some point. 
 
 Things in the works such as (not everything has been implemented or optimized!!:
+
 -Connect to Wi-Fi
+
 -Validate outside network connectivity (Wi-Fi Check)
+
 -Display IP info
+
 -Onboard RGB LED - Turn it on, off, enable different colors which can be used to indicate status of your code or whatever..
+
 -Setting RTC via NTP
+
 -Powersave features - such as lower CPU freq
+
 -Reconnect to Wi-Fi if you get disconnected
+
 -USB Connected? True/False
+
 -JST Battery voltage (if you a battery plugged in)
+
 -Alerts on voltage levels (adjustible) but Likely set to about 3.1V as a default.
+
 -Display version info for things such as MP version, bootloader version, mac-address info ect..
+
 -Whatever else I think of or you suggest!
 
 I will be working on this on and off, not that anyone is probably reading this anyways. I'm a newbie and if for some reason you are reading this and have comments on my code and how to optimize it and why something is poorly coded please share the feedback! For example I'm going to create a toggle method for the LED instead of the current way but I wanted a core at least somewhat functional.
