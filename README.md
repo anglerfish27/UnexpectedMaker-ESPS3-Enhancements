@@ -19,23 +19,23 @@ The goal is that if you have a Feather S3, ProS3, or TinyS3 you can perform a va
 
 Things in the works such as (not everything has been implemented or optimized!!:
 
--Connect to Wi-Fi
+-Connect to Wi-Fi -->DONE
 
--Validate outside network connectivity (Wi-Fi Check)
+-Validate outside network connectivity (Wi-Fi Check) -->DONE
 
--Display IP info
+-Display IP info -->DONE
 
--Onboard RGB LED - Turn it on, off, enable different colors which can be used to indicate status of your code or whatever..
+-Onboard RGB LED - Turn it on, off, enable different colors which can be used to indicate status of your code or whatever.. -->DONE
 
--Setting RTC via NTP
+-Setting RTC via NTP -->DONE
 
 -Powersave features - such as lower CPU freq
 
--Reconnect to Wi-Fi if you get disconnected
+-Reconnect to Wi-Fi if you get disconnected 
 
--USB Connected? True/False
+-USB Connected? True/False -->DONE
 
--JST Battery voltage (if you a battery plugged in)
+-JST Battery voltage (if you a battery plugged in) -->DONE
 
 -Alerts on voltage levels (adjustible) but Likely set to about 3.1V as a default.
 
