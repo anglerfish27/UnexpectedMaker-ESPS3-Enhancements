@@ -45,6 +45,7 @@ Things in the works such as (not everything has been implemented or optimized!!:
 
 I will be working on this on and off, not that anyone is probably reading this anyways. I'm a newbie and if for some reason you are reading this and have comments on my code and how to optimize it and why something is poorly coded please share the feedback! For example I'm going to create a toggle method for the LED instead of the current way but I wanted a core at least somewhat functional.
 
+Again for any code that does not belong to me and has been written by Seon you must follow below:
 
 Copyright 2019 Unexpected Maker
 
