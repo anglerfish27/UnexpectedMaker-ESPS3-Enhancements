@@ -1,5 +1,6 @@
 # UnexpectedMaker-ESPS3-Enhancements Helper File!
-First off all rights, permissions ect... go to Seon Rozenblum from Unexpected Maker. 
+First off all rights, permissions ect... go to Seon Rozenblum from Unexpected Maker. I have NO AFFLIATION or partnership with his buisness. I'm just a private individual adding on to his code.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Chunks of this code is from his own code so I do not own the entire code base. This code was made INDEPENDANT from Unexpected Maker/Seon - meaning this code is **no way related to him, his buisness, or products.** This is my creation and its written for his hardware because I am a big fan of his products, this is in no way sponsored or sanctioned by him. So if this code sucks and it blows up in your face you CANNOT blame him or his buisness. I'm just a beginner MP coder who loves his microprocessors. The ntptime.py belongs to the Micropython organisation and is not mine, I just made a tiny modifcation for UTC offset. Heck I wouldn't be surprised if MP has already incorporated UTC offset on their own. Either way the code belongs to them.
 
